@@ -1,0 +1,3 @@
+Maths
+
+system of equation posses non-trivial solution: When [A][X] not= 0  
